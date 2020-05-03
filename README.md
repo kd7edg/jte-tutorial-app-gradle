@@ -1,0 +1,1 @@
+# jte-tutorial-app-gradle
